@@ -1,3 +1,4 @@
+> This document is based on multiple public sources on GitHub repositories, articles, website and microsoft [internal coding guidlines][ms-coding-guidelines].
 # CSharp-Coding-Standards
 
 ## Classes
