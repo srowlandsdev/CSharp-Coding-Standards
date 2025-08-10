@@ -1,14 +1,15 @@
 # CSharp-Coding-Standards
 
 ## Classes
-Pascal Case
+Utilise the PascalCase convention to make a distinction from variables
 
 ## Methods
-Pascal Case
+Utilise the PascalCase convention to make a distinction from variables
 
 ## Variables
 ### General
-Camel Case
+- Camel Case
+
 Always declare the properties as private so as to achieve Encapsulation and ensure data hiding.
 
 ```csharp
@@ -41,6 +42,21 @@ Uppercase
 ## Exception Handling
 
 ## Comments
+- Use single-line comments (//) for brief explanations within the code.
+- Avoid excessive comments; aim for self-explanatory code.
+- Include a summary, remarks, and example sections in your XML comments.
+
+For classes, methods and properties use XML comments as a standard like this:
+```csharp
+    /// <summary>
+    /// Template Class.
+    /// </summary>
+    public class MyClass
+    {
+        // Class implementation
+    }
+```
+
 ### Copyrights
 
 Sourced from hassanhabib/CSharpCodingStandard
