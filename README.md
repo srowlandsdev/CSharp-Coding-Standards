@@ -1,5 +1,7 @@
 > This document is based on multiple public sources on GitHub repositories, articles, website and microsoft [internal coding guidlines][ms-coding-guidelines].
 # CSharp-Coding-Standards
+## Why Should I Use This?
+We've all looked at code at one point or another and gone "That could have been better if person X did this" or "Why does the class not have a summary". In short this standard serves as a lesson from others on what not to do when using C# and how you can avoid mistakes, pitfalls and get a clean, and in some cases more optimised start to your codebase. It is considerate for you and whoever will likely have to view and maintain your code down the road if you are part of a team.
 
 ## Classes
 Utilise the PascalCase convention to make a distinction from variables
