@@ -4,13 +4,13 @@
 We've all looked at code at one point or another and gone "That could have been better if person X did this" or "Why does the class not have a summary". In short this standard serves as a lesson from others on what not to do when using C# and how you can avoid mistakes, pitfalls and get a clean, and in some cases more optimised start to your codebase. It is considerate for you and whoever will likely have to view and maintain your code down the road if you are part of a team.
 
 ## Sources
-https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
-https://www.geeksforgeeks.org/c-sharp/c-sharp-coding-standards/
-https://www.dofactory.com/csharp-coding-standards#
-https://google.github.io/styleguide/csharp-style.html
-https://medium.com/@shubhadeepchat/c-coding-standards-f72df288f57c
-https://github.com/hassanhabib/CSharpCodingStandard/blob/master/4.%20Methods.md
-https://gist.github.com/colin-gourlay/c419390066b22c4b2d4f
+- https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions
+- https://www.geeksforgeeks.org/c-sharp/c-sharp-coding-standards/
+- https://www.dofactory.com/csharp-coding-standards#
+- https://google.github.io/styleguide/csharp-style.html
+- https://medium.com/@shubhadeepchat/c-coding-standards-f72df288f57c
+- https://github.com/hassanhabib/CSharpCodingStandard/blob/master/4.%20Methods.md
+- https://gist.github.com/colin-gourlay/c419390066b22c4b2d4f
 
 
 ## Classes
